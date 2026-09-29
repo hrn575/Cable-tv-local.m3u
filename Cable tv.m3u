@@ -1593,3 +1593,26 @@ https://hlsstream.olidigital.in/adhiralaitv/adhiralaitv/index.m3u8
 http://iptv.iptelevision.live/smadantv/index.m3u8?token=github.com/amazeyourself
 #EXTINF:-1 tvg-id="NilaTVSAS" tvg-name-ta="நிலா டிவி" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1789751285.webp" tvg-region="Unknown" group-title="PLC",Nila TV
 http://srvvii.nellaiiptv.com:8033/app-restream/nilatv-sas/index.m3u8
+#EXTINF:0, ZEE TAMIL
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8
+#EXTINF:0,WINTV
+https://mumt06.tangotv.in/qYyB8fXVWINTV/index.m3u8
+#EXTINF:0,vendhartv
+https://mumt04.tangotv.in/m18aqlK4VENDHARTV/index.m3u8
+#EXTINF:0,colors
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8
+#EXTINF:0,7 music
+https://cdn.pishow.tv/ott/live/1257/master.m3u8
+#EXTINF:0,vijay tv
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
